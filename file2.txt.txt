@@ -1,1 +1,5 @@
+<<<<<<< .mine
 BRanch 2 sddsdsdds
+=======
+BRanch 2 1
+>>>>>>> .theirs
